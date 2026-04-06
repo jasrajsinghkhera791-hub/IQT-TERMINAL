@@ -14,3 +14,8 @@ To make powerful financial tools accessible to everyone.
 
 ## Status
 Actively under development 🚀
+## Screenshots
+
+![Dashboard](finance.jpg)
+![Interface](iqt.jpg)
+![Preview](ss.jpg)
