@@ -18,9 +18,11 @@ Actively under development 🚀
 
 ## Screenshots
 
-![Dashboard](finance.jpg)
+![Dashboard](ss.jpg)
 ![Interface](iqt.jpg)
 ![Stock Page](iqtdemo.jpg) 
 
 ## Demo
 Open index.html to view the prototype interface
+
+Update: Improving UI
