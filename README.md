@@ -35,5 +35,7 @@ Update: Enhancing project structure and files
 
 Update: Improving overall user interface design
 
+Update: Adding more features soon
+
 
 
