@@ -16,8 +16,11 @@ To make powerful financial tools accessible to everyone.
 Actively under development 🚀
 ## Screenshots
 
-![Dashboard](iqt.jpg)
-![Interface](iqt1.jpg)
-![Preview](ss.jpg)
+## Screenshots
+
+![Dashboard](finance.jpg)
+![Interface](iqt.jpg)
+![Stock Page](iqtdemo.jpg) 
+
 ## Demo
 Open index.html to view the prototype interface
