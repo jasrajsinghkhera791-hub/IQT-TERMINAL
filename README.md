@@ -37,5 +37,10 @@ Update: Improving overall user interface design
 
 Update: Adding more features soon
 
+## Roadmap
+- AI-powered stock insights
+- Better UI/UX
+- Real-time alerts
+
 
 
