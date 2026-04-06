@@ -26,4 +26,7 @@ Actively under development 🚀
 Open index.html to view the prototype interface
 
 Update: Improved project description clarity
+
 Update: Working on UI improvements for dashboard
+
+Update: Planning AI integration using Claude
