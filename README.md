@@ -26,3 +26,4 @@ Actively under development 🚀
 Open index.html to view the prototype interface
 
 Update: Improving UI
+Update: Improved project description clarity
