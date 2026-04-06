@@ -25,4 +25,3 @@ Actively under development 🚀
 ## Demo
 Open index.html to view the prototype interface
 
-Update: Improving UI
